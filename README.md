@@ -34,7 +34,7 @@ The breakout board can be initialized by connecting +3.3v to the +3v3 pin, and g
 ![SIM7600 Breakout Board](pics/SIM7600_BB_2.png)
 
 ## Notes
-- **Be a good neighbor on the RF spectrum!** There is certainly a lot of grey area when it comes to legality and LTE/carrier service, so be conscientious you're within local law. 
+- **Be a good neighbor on the RF spectrum!** There is certainly a lot of grey area when it comes to legality and LTE/carrier service, so be conscientious - stay within local law. 
 - As of writing (12/09/22) this has yet to be constructed. The OSH Park order is out, but the SIM7600G-H is backordered at Digikey along with literally every other SIM7600 model. Hoping for a restock before the new year.
 - Contribute! This is my first real RF/4G PCB, so if you see somewhere that could be improved feel free to raise an issue or put up a PR.
 - As this is assembled and tinkered with, this README will be immensely updated for better usage instructions.
