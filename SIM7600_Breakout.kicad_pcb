@@ -7443,7 +7443,7 @@
   (gr_text "DCD" (at 123.1 93.3 90) (layer "F.SilkS") (tstamp b06eea76-5207-4b7b-b5d1-dc7409bdea59)
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
-  (gr_text "SIM7600 Development Board" (at 158.275 100.3 270) (layer "F.SilkS") (tstamp baa36956-a90a-44ae-8967-180eb1473444)
+  (gr_text "SIM7600 Breakout Board" (at 158.275 100.7 270) (layer "F.SilkS") (tstamp baa36956-a90a-44ae-8967-180eb1473444)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
   (gr_text "GP3" (at 123.1 113.6 90) (layer "F.SilkS") (tstamp bf4c9f3e-25fc-42b8-925c-a4a43789ce56)
