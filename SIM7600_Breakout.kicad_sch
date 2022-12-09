@@ -2579,7 +2579,6 @@
     )
   )
 
-
   (junction (at 154.94 166.116) (diameter 0) (color 0 0 0 0)
     (uuid 096f13b7-6f47-4d89-b71d-b7bd10a53c8d)
   )
@@ -5541,7 +5540,7 @@
     (property "Reference" "J2" (id 0) (at 249.047 114.935 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "2H header" (id 1) (at 246.634 115.062 90)
+    (property "Value" "2W Header" (id 1) (at 246.634 115.062 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (id 2) (at 248.412 118.11 0)
@@ -5622,7 +5621,7 @@
     (property "Reference" "J4" (id 0) (at 272.034 62.738 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "30H Header" (id 1) (at 274.32 53.848 90)
+    (property "Value" "30W Header" (id 1) (at 274.32 53.848 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x30_P2.54mm_Vertical" (id 2) (at 270.002 59.944 0)
@@ -6570,13 +6569,13 @@
       (reference "J1") (unit 1) (value "SIM8060-6-0-14-00-A") (footprint "sim7600_breakout:GCT_SIM8060-6-0-14-00-A")
     )
     (path "/854eda8f-d37e-49df-aa08-450e402f5b4c"
-      (reference "J2") (unit 1) (value "2H header") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+      (reference "J2") (unit 1) (value "2W Header") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/309204ef-7373-426d-8821-f8b478a9ccbb"
       (reference "J3") (unit 1) (value "MJ-3502N") (footprint "sim7600_breakout:CUI_MJ-3502N")
     )
     (path "/8a6937b9-f64b-4379-a3aa-862c0016b2c6"
-      (reference "J4") (unit 1) (value "30H Header") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x30_P2.54mm_Vertical")
+      (reference "J4") (unit 1) (value "30W Header") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x30_P2.54mm_Vertical")
     )
     (path "/778c53f9-d110-4358-bf3e-2d1ecc97e325"
       (reference "J5") (unit 1) (value "USB_B_Micro") (footprint "sim7600_breakout:USB3100-30-A")
