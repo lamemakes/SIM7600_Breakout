@@ -1,5 +1,3 @@
-**NOTE! This project has been permanently archived and will not be maintained.** All further cellular development will take place on platforms that are already "carrier verified" to save headaches.
-
 # SIM7600 Breakout Board
 #### Needs a cooler name, huh?
 
