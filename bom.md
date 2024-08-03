@@ -14,3 +14,4 @@ A list of the parts used & where they can be found
 | ESD9L5.0ST5G        | `D3`             | [Digikey](https://www.digikey.com/en/products/detail/onsemi/ESD9L5-0ST5G/1693175)                            | TVS Diode (USB Data)          |
 | U.FL-R-SMT-1(01)    | `J6`, `J7`, `J8` | [Digikey](https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/U-FL-R-SMT-1-01/3978494)         | Male U.FL 50Ω Receptacle      |
 | MJ-3502N            | `J3`             | [Digikey](https://www.digikey.com/en/products/detail/cui-devices/MJ-3502N/281266)                            | 3.5mm Headphone Phone Jack    |
+| AOM-4542P-R         | `MK1`            | [Digikey](https://www.digikey.com/en/products/detail/pui-audio-inc/AOM-4542P-R/1745490)                      | Analog Condenser Microphone   |
