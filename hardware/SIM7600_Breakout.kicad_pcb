@@ -899,7 +899,7 @@
 			)
 		)
 		(property "Value" "5K1"
-			(at 0 1.05 360)
+			(at 0 1.05 0)
 			(layer "F.Fab")
 			(uuid "21b58cd8-31ad-422c-8e07-b363709f2b43")
 			(effects
@@ -910,7 +910,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a15d507f-ee6d-4786-a811-8d8857a2e530")
@@ -922,7 +922,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bc192ace-153e-492c-9d65-d7df4da113cf")
@@ -934,7 +934,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6d25ec21-9c04-4f4d-883e-5cc8318de32c")
@@ -1029,7 +1029,7 @@
 			(uuid "258a8cd7-efba-4206-8a30-7fba5e1e07ab")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -0.68 360)
+			(at 0 -0.68 0)
 			(layer "F.Fab")
 			(uuid "e966baf4-a8eb-4fa3-bd0b-a7ba34c36c88")
 			(effects
@@ -4439,7 +4439,7 @@
 			)
 		)
 		(property "Value" "22"
-			(at 0 1.05 360)
+			(at 0 1.05 0)
 			(layer "F.Fab")
 			(uuid "1cc25f93-e163-4294-a3c6-73c830397176")
 			(effects
@@ -4450,7 +4450,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "61bb4ed4-3d19-45d9-8b15-ee1ad2d7f14b")
@@ -4462,7 +4462,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "54c3bfc7-7603-4257-b810-a90c6a71e8de")
@@ -4474,7 +4474,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f2ff6210-20c4-4bf0-9ead-a6843a0fe673")
@@ -4569,7 +4569,7 @@
 			(uuid "7270b890-6742-4d73-95b6-a7940af34b68")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -0.68 360)
+			(at 0 -0.68 0)
 			(layer "F.Fab")
 			(uuid "35b8ba5f-5f7e-4cdc-af45-8346fc4a28b6")
 			(effects
@@ -9851,7 +9851,7 @@
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R5"
-			(at -1.283 0 360)
+			(at -1.283 0 0)
 			(layer "F.SilkS")
 			(uuid "a2f4e79a-08fe-4506-994c-921953caaa50")
 			(effects
@@ -10239,7 +10239,7 @@
 			)
 		)
 		(property "Value" "22pF"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "a189d030-7f15-483e-8290-3f54209b99ec")
 			(effects
@@ -10250,7 +10250,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a4378454-a61c-40b1-b200-354eb5619190")
@@ -10262,7 +10262,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "50c3c398-9786-468a-aba9-529ac143b36f")
@@ -10274,7 +10274,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "60691bc7-9085-4452-8a2b-2b2d76a9a972")
@@ -10389,7 +10389,7 @@
 			(uuid "ecc921ef-6684-41c5-8809-1842d3c009c7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "0b16adb1-44e3-457d-b267-84a08e80558a")
 			(effects
@@ -14618,7 +14618,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 0 1.05 360)
+			(at 0 1.05 0)
 			(layer "F.Fab")
 			(uuid "391494a5-9521-41e9-904a-8f99f1975f38")
 			(effects
@@ -14629,7 +14629,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c7a85170-66e9-4db6-8c0f-1bdc520a21ee")
@@ -14641,7 +14641,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8abf5de4-8043-459a-85de-5829c65a9587")
@@ -14653,7 +14653,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3a1d5464-e4ed-4b27-a930-04e2d5f6a20d")
@@ -14748,7 +14748,7 @@
 			(uuid "5f2d7773-e226-432d-afb7-e28d359b93e0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -0.68 360)
+			(at 0 -0.68 0)
 			(layer "F.Fab")
 			(uuid "58801a30-ff9c-4da4-9ae9-bf7f059ddc28")
 			(effects
@@ -15843,7 +15843,7 @@
 			)
 		)
 		(property "Value" "4k7"
-			(at 0 1.05 360)
+			(at 0 1.05 0)
 			(layer "F.Fab")
 			(uuid "e648501a-4594-45d4-ae15-dd42fdc4a7ab")
 			(effects
@@ -15854,7 +15854,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7504a7bb-56ad-4030-b537-0542a2a0af91")
@@ -15866,7 +15866,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1c2c8ea4-cdaa-4d55-8260-ffdf9876bdf6")
@@ -15878,7 +15878,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "92635c0c-bbb6-49e6-b171-9e9958b77860")
@@ -15973,7 +15973,7 @@
 			(uuid "a2101534-5545-4673-8688-d4dea00dabe6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -0.68 360)
+			(at 0 -0.68 0)
 			(layer "F.Fab")
 			(uuid "86803566-cbe1-4440-bf1f-e83f44f160a9")
 			(effects
@@ -23041,7 +23041,7 @@
 			)
 		)
 		(property "Value" "SIM8060-6-0-14-00-A"
-			(at 8.911805 8.071155 360)
+			(at 8.911805 8.071155 0)
 			(layer "F.Fab")
 			(uuid "d5ba287e-01ad-4fb3-a8eb-438561bb9ddd")
 			(effects
@@ -23052,7 +23052,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5dca5520-fcbd-4a0d-80d4-d6aa75d8be13")
@@ -23064,7 +23064,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0dd0a35c-0adc-477a-9014-98f1ebec7d6b")
@@ -23076,7 +23076,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "60b8ab04-47db-460a-806d-035df29d828d")
@@ -25249,6 +25249,14 @@
 		(uuid "0f42316b-163b-49e8-8ec6-77b8584f60a3")
 	)
 	(segment
+		(start 145.96 88.78)
+		(end 145.2375 88.0575)
+		(width 0.25)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "0f425cfa-5633-4afe-bcfb-ce8f0b371831")
+	)
+	(segment
 		(start 154.985 87.21)
 		(end 155.025 87.25)
 		(width 0.3628)
@@ -25479,6 +25487,14 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "32b6ed7c-3071-4e96-b339-887016097645")
+	)
+	(segment
+		(start 145.96 91.04)
+		(end 145.95 91.05)
+		(width 0.25)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "3325609d-1294-459e-a695-10bbde30ef9c")
 	)
 	(segment
 		(start 144.6525 124.96)
@@ -25863,6 +25879,14 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "8693f214-e5d3-4e7b-ae71-04c165cfc37a")
+	)
+	(segment
+		(start 145.2375 88.0575)
+		(end 145.2375 87.4)
+		(width 0.25)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "879e86ba-3c89-4631-9a96-26b1d5afb705")
 	)
 	(segment
 		(start 137.425 79.6)
@@ -26361,6 +26385,14 @@
 		(uuid "e89f857e-351e-4ee9-9c9b-438e63716c2f")
 	)
 	(segment
+		(start 145.96 89.93)
+		(end 145.96 91.04)
+		(width 0.25)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "e90c0778-fbb8-4989-837c-62aef614113d")
+	)
+	(segment
 		(start 156.67 98.53)
 		(end 156.675 98.525)
 		(width 0.25)
@@ -26431,6 +26463,14 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "ef776648-7adc-47c7-8a7c-f8e265f7278d")
+	)
+	(segment
+		(start 145.96 89.93)
+		(end 145.96 88.78)
+		(width 0.25)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "f0421e4e-da6c-43df-a30d-35a3de78359b")
 	)
 	(segment
 		(start 141.9375 80.6375)
@@ -26799,6 +26839,14 @@
 		(layers "F.Cu" "B.Cu")
 		(net 2)
 		(uuid "5eaeaf9c-6aad-4b44-a7de-e5544dd701a7")
+	)
+	(via
+		(at 145.95 91.05)
+		(size 0.8)
+		(drill 0.4)
+		(layers "F.Cu" "B.Cu")
+		(net 2)
+		(uuid "601d6259-ce2b-4839-874d-01e0760f2edb")
 	)
 	(via
 		(at 141.9 80.6)

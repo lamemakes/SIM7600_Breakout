@@ -1,5 +1,5 @@
 # SIM7600 Breakout Board
-#### Needs a cooler name, huh?
+*Needs a cooler name, huh?*
 
 ## TLDR
 This project is a 4 layer PCB built around the SIM7600 to expose all of it's functionality to make it usable/hackable for a wide range of devices, with a form factor that can fit beautifully on a 30 row breadboard.
@@ -9,9 +9,6 @@ The intent of this was to be able to experiment with 4G/LTE, learn more about ho
 
 ## KiCAD
 The required symbols/footprints/3D models can be found in the directories: lib_sch/sim7600_breakout.pretty/3dmodels respectively.
-
-### Schematic
-![SIM7600 Breakout Board Schematic](pics/schematic.png)
 
 ## Usage Pre-Requisites
 - A fully assembled lamemakes SIM7600 Breakout Board
@@ -28,10 +25,12 @@ The required symbols/footprints/3D models can be found in the directories: lib_s
 The breakout board can be initialized by connecting +3.3v to the +3v3 pin, and ground to the GND pin. Then, turn the module on by pulling the PKEY HIGH.
 
 ## Pics
-![SIM7600 Breakout Board](pics/SIM7600_BB_3.png)
-![SIM7600 Breakout Board](pics/SIM7600_BB_4.png)
-![SIM7600 Breakout Board](pics/SIM7600_BB_1.png)
-![SIM7600 Breakout Board](pics/SIM7600_BB_2.png)
+
+*Schematic*
+![SIM7600 Breakout Board Schematic](pics/SIM7600_Breakout.svg)
+
+*PCB*
+![SIM7600 Breakout Board Schematic](pics/SIM7600_Breakout-pcb.svg)
 
 ## Notes
 - **Be a good neighbor on the RF spectrum!** There is certainly a lot of grey area when it comes to legality and LTE/carrier service, so be conscientious - stay within local law. 

@@ -1,0 +1,13 @@
+on: [push]
+
+jobs:
+  gen-image:
+    runs-on: ubuntu-latest
+    name: Generate images from a KiCad project
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lamemakes/kicad-pics-action@5045339faa1118bdbe03f55307e08c2962b4f12e
+        with:
+          project-path: 'hardware/'
+          project-name: 'SIM7600_Breakout'
+          output-path: 'pics/'
