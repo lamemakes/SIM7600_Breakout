@@ -7,7 +7,7 @@
 	(title_block
 		(title "SIM7600 Breakout Board")
 		(date "2022-12-08")
-		(rev "Rev 1")
+		(rev "${VERSION}")
 		(company "lamemakes")
 	)
 	(lib_symbols

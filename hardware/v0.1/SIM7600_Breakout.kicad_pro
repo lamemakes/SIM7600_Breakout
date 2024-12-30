@@ -609,5 +609,7 @@
       "Root"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "VERSION": "0.1"
+  }
 }

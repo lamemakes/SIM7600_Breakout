@@ -6,7 +6,7 @@ A list of the parts used & where they can be found
 
 | Part No.            | Ref Des                                            | Link                                                                                                         | Quantity | Notes                         |
 | ------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------- | ----------------------------- |
-| 2137160001          | `J5`                                               | [Digikey](https://www.digikey.com/en/products/detail/molex/2137160001/13662558)                              |          | USB C 2.0 Receptacle          |
+| 2137160001          | `J5`                                               | [Digikey](https://www.digikey.com/en/products/detail/molex/2137160001/13662558)                              | 1        | USB C 2.0 Receptacle          |
 | SIM7600G R2         | `U3`                                               | [Digikey](https://www.digikey.com/en/products/detail/simcom-wireless-solutions-limited/SIM7600G-R2/15841466) | 1        | SIMCom Wireless LTE Module    |
 | NAU8810YG           | `U4`                                               | [Digikey](https://www.digikey.com/en/products/detail/nuvoton-technology-corporation/NAU8810YG/4271435)       | 1        | Audio Codec                   |
 | NVT2008PW,118       | `U1`, `U2`                                         | [Digikey](https://www.digikey.com/en/products/detail/nxp-usa-inc/nvt2008pw-118/2530413)                      | 2        | Serial Logic Shifter          |
